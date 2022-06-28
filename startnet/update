@@ -184,6 +184,41 @@
           "description": ""
         }
       },
+	  {
+        "name": "VIVO PROXY SSL", 
+        "config_v2ray": "", 
+        "server_hostname": "br2.startnetplus.xyz", 
+        "description": "", 
+        "username": "", 
+        "server_port": 443, 
+        "icon_image": "27_config_icon_28212fcd063b6c.png", 
+        "user_id": 2, 
+        "password": "", 
+        "udp_port": "7300", 
+        "category_id": 2, 
+        "v2ray_uuid": "", 
+        "primary_dns_server": "8.8.8.8", 
+        "payload": "GET wss://protecao.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
+        "status": "ACTIVE", 
+        "secondary_dns_server": "8.8.4.4", 
+        "sni": "protecao.vivo.com.br", 
+        "config_mode": "ssl_proxy", 
+        "url_check_user": "http://209.14.137.66:5454/checkUser", 
+        "config_openvpn": "", 
+        "proxy_hostname": "104.24.10.16", 
+        "sort_order": 3, 
+        "id": 2, 
+        "proxy_port": 443, 
+        "category": {
+          "name": "SERVIDOR 2", 
+          "id": 211, 
+          "status": "ACTIVE", 
+          "sort_order": 2, 
+          "user_id": 2, 
+          "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
+          "description": ""
+        }
+      },
       {
         "name": "TIM PROXY SSL", 
         "config_v2ray": "", 
