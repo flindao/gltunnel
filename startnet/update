@@ -185,7 +185,7 @@
         }
       },
 	  {
-        "name": "VIVO PROXY SSL", 
+        "name": "VIVO PROXY SSL 1", 
         "config_v2ray": "", 
         "server_hostname": "br2.startnetplus.xyz", 
         "description": "", 
