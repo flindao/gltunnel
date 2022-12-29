@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#FCF8F7\">STARTNET CLOUD</font>", 
+      "value": "<font color=\"#FCF8F7\">SONIC VIP</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/ws2hQdD/fundoazul5.jpg", 
+      "value": "https://i.ibb.co/26hJjMf/sonic.jpg", 
       "name": "app_background_image"
     },
     {
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/VLHCfj8/logostartnet640x640-removebg-preview.png", 
+      "value": "https://i.ibb.co/2qQrYgg/SONIC-LOGO.jpg", 
       "id": 2386, 
       "name": "app_logo"
     },
