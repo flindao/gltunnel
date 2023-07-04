@@ -60,7 +60,7 @@
 , "config_openvpn": ""
 , "proxy_hostname": "198.161.83.28"
 , "sort_order": 3
-, "id": 2
+, "id": 3
 , "proxy_port": 80
 , "category": { "name": "SSH VIVO"
 , "id": 1
