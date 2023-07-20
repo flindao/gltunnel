@@ -19,7 +19,7 @@
 , "category_id": 1
 , "v2ray_uuid": ""
 , "primary_dns_server": "8.8.8.8"
-, "payload": "GET / HTTP/1.1[crlf]Host: [rotate=d2m2hch404ay96.cloudfront.net;44du3z848m8149m603.speedup.mobi;9t1v89r802126c291s.speedup.mobi;d2ek73y9etdui0.cloudfront.net;414gd89786792ug60z.speedup.mobi;d2ek73y9etdui0.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]"
+, "payload": "GET / HTTP/1.1[crlf]Host: [rotate=d4sk5o15lkd0g.cloudfront.net;drtb01exsjv9j.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf]@TSTOPSPEED[crlf][crlf]"
 , "status": "ACTIVE"
 , "secondary_dns_server": "8.8.4.4", "sni": "::ffff:3455:d508"
 , "config_mode": "ssh_direct"
@@ -139,7 +139,7 @@
 
 , { "name": "VIVO 05"
 , "SSH": ""
-, "server_hostname": "br2.startnetplus.xyz"
+, "server_hostname": "br11.startnetplus.xyz"
 , "description": "VIVO PROXY SECURITY 27,71"
 , "username": ""
 , "server_port": 80
@@ -150,14 +150,14 @@
 , "category_id": 1
 , "v2ray_uuid": ""
 , "primary_dns_server": "8.8.8.8"
-, "payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: br2.startnetplus.xyz[crlf]Upgrade: websocket[crlf][crlf]"
+, "payload": "LOCK http://m.youtubw.com/ HTTP/1.1\nHost: m.youtube.com\nPUT /mobile/status.php HTTP/1.1 Host: portal.fb.com X-FB-Background-State:1 X-FB-SIM-HNI [lf]"
 , "status": "ACTIVE"
 , "secondary_dns_server": "8.8.4.4"
 , "sni": ""
 , "config_mode": "ssh_direct"
 , "url_check_user": "http://209.14.69.237:5000"
 , "config_openvpn": ""
-, "proxy_hostname": "br2.startnetplus.xyz"
+, "proxy_hostname": "br11.startnetplus.xyz"
 , "sort_order": 5
 , "id": 5
 , "proxy_port": 80
